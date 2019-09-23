@@ -1,0 +1,5 @@
+{
+  "env": {
+    "FUANADB_ACCESS_KEY": "@faunadb_access_key"
+  }
+}

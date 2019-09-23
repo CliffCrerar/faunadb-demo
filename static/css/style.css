@@ -1,0 +1,9 @@
+.visa-img{
+    height: 30px;
+}
+
+.table{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    border: 1px solid black
+}
